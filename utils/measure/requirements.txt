@@ -43,7 +43,7 @@ prompt-toolkit==1.0.14
 pycares==4.9.0
 pycparser==2.21
 pycryptodome==3.10.1
-pydantic==1.9.0
+pydantic==1.10.13
 Pygments==2.20.0
 pyparsing==3.0.8
 pytesseract==0.3.9
