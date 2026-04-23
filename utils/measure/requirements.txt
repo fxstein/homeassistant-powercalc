@@ -72,5 +72,5 @@ url-normalize==1.4.3
 urllib3==2.6.3
 wcwidth==0.2.5
 yarl==1.6.3
-zipp==3.5.0
+zipp==3.19.1
 zwave-js-server-python==0.30.0
